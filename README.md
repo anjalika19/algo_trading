@@ -1,0 +1,1 @@
+Developed an algorithmic trading strategy using Backtrader, focusing on trend following with three key technical indicators: Simple Moving Average (SMA), Average Directional Movement Index (ADX), and Bollinger Bands.
